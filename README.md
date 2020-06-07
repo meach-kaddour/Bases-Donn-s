@@ -1,4 +1,4 @@
-# db-modling
+# Bases Donnés:
 
 Objectifs :
 Établir le dictionnaire de donnés.
